@@ -1,5 +1,5 @@
 # versionhistory.py
-# used to create versioned changelog files form GitHub commit data
+# used to create versioned changelog files from GitHub commit data
 
 import requests
 
